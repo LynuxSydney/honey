@@ -1,4 +1,4 @@
-#fname = input("Enter file name: ")
+#Created by @bericontraster
 raw_file = "C:\Windows\System32\lsass.txt"
 id = []
 f = open("C:\Windows\System32\id_lsass.txt",'w')
